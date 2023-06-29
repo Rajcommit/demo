@@ -27,4 +27,6 @@ Double trouble
 just something not cool
 >>>>>>> Stashed changes
 
-Life changes and there is nothing to be afraid of yeea!
+bot hot shot
+
+
