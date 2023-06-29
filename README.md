@@ -19,3 +19,6 @@ Facing a backlsh on proction env, mayday may day
 
 Double trouble
 >>>>>>> very-bad
+
+
+ haleluya haleluya
