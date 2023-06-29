@@ -10,6 +10,4 @@ ke jingur aar par bc
 
 the day was young and the night was crazy
 
-Let's update without the ask and let's not keep it down
-
-I hope the update was pethetic
+hulululu hulululu
