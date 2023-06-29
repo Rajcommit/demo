@@ -20,5 +20,11 @@ Facing a backlsh on proction env, mayday may day
 Double trouble
 >>>>>>> very-bad
 
+<<<<<<< Updated upstream
 
  haleluya haleluya
+=======
+just something not cool
+>>>>>>> Stashed changes
+
+Life changes and there is nothing to be afraid of yeea!
