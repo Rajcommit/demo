@@ -23,3 +23,5 @@ Double trouble
 wrote a line about reading in the reo on-line
 ##Getting_started
 To get started wiht this project, just 'clone' this repo
+
+make sure to take care of accidental commits
