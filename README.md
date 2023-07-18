@@ -25,3 +25,4 @@ wrote a line about reading in the reo on-line
 To get started wiht this project, just 'clone' this repo
 
 make sure to take care of accidental commits
+The redundant commits must be avoided
