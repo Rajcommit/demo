@@ -26,3 +26,6 @@ To get started wiht this project, just 'clone' this repo
 
 make sure to take care of accidental commits
 The redundant commits must be avoided
+
+
+docker file
